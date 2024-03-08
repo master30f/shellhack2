@@ -1,0 +1,16 @@
+{
+  "name": "shellhack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shellshock.js",
+  "scripts": {
+    "build": "webpack build",
+    "watch": "webpack watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.90.3",
+    "webpack-cli": "^5.1.4"
+  }
+}
